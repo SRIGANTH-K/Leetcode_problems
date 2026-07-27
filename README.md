@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
