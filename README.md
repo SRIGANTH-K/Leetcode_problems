@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 ## Trie
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
