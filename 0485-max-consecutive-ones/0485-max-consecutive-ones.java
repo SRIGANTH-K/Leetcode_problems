@@ -9,6 +9,7 @@ class Solution {
             }
             else{
                 curCount = 0;
+                maxCount = Math.max(maxCount,curCount);
             }
             maxCount = Math.max(maxCount,curCount);
         }
