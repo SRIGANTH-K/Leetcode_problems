@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
