@@ -5,11 +5,12 @@ class Solution {
         for (int i:nums){
             if (i==1){
                 curCount++;
-                maxCount = Math.max(maxCount,curCount);
+                //maxCount = Math.max(maxCount,curCount);
             }
             else{
                 curCount = 0;
             }
+            maxCount = Math.max(maxCount,curCount);
         }
         return maxCount;
     }
