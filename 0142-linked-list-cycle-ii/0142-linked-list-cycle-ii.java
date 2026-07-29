@@ -17,8 +17,7 @@ public class Solution {
         while (fast != null && fast.next != null){
             fast = fast.next.next;
             slow = slow.next;
-            if (fast == slow){
-               
+            if (fast == slow){              
                 while (fast != start){   
                     fast = fast.next;
                     start = start.next;                    
