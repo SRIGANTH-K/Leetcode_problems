@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0069-sqrtx) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Linked List
 |  |
 | ------- |
