@@ -6,9 +6,7 @@ class Solution {
             int tempwater = (j-i)*Math.min(height[i],height[j]);
             maxwater = Math.max(tempwater,maxwater);
             if (height[i]>height[j]) j--;
-            else i++;
-
-            
+            else i++;            
         }
         return maxwater;
     }
