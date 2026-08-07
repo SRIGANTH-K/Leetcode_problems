@@ -10,15 +10,10 @@ class Solution {
                 int sum=nums[i]+nums[j]+nums[k];
                 
                 if (Math.abs(target-sum)<Math.abs(target-res)) res = sum;
+
                 if (sum == target) return target;
-                if (sum<target) j++;
+                else if (sum<target) j++;
                 else k--;
-
-                
-                
-
-
-
             }
         }
         return res;
