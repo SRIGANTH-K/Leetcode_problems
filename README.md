@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0523-continuous-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 ## Trie
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0069-sqrtx) |
+| [0523-continuous-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Linked List
 |  |
@@ -120,5 +123,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
