@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
@@ -118,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
