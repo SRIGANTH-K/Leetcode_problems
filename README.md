@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Trie
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Linked List
 |  |
