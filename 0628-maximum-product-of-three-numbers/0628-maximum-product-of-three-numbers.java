@@ -21,10 +21,8 @@ class Solution {
                 
                 sMin = min;
                 min = nums[i];
-            }else if (nums[i]<sMin){
-                
+            }else if (nums[i]<sMin){                
                 sMin = nums[i];
-
             }
         }
         int p1 = max*sMax*tMax;
