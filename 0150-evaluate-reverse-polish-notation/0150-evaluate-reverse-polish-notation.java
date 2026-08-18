@@ -1,25 +1,22 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<Integer> stack = new Stack<>();
+        int[] stack = new int[tokens.length];
+        int top = -1; // Pointer to the top of our simulated stack
 
-        for (String c : tokens) {
-            if (c.equals("+")) {
-                stack.push(stack.pop() + stack.pop());
-            } else if (c.equals("-")) {
-                int second = stack.pop();
-                int first = stack.pop();
-                stack.push(first - second);
-            } else if (c.equals("*")) {
-                stack.push(stack.pop() * stack.pop());
-            } else if (c.equals("/")) {
-                int second = stack.pop();
-                int first = stack.pop();
-                stack.push(first / second);
-            } else {
-                stack.push(Integer.parseInt(c));
+        for (String s : tokens) {
+            switch (s) {
+                // For operators, we combine the top two elements and shrink the stack pointer by 1
+                case "+" -> { stack[top - 1] += stack[top]; top--; }
+                case "-" -> { stack[top - 1] -= stack[top]; top--; }
+                case "*" -> { stack[top - 1] *= stack[top]; top--; }
+                case "/" -> { stack[top - 1] /= stack[top]; top--; }
+                
+                // For numbers, we expand the stack pointer and insert the number
+                default  -> stack[++top] = Integer.parseInt(s);
             }
         }
 
-        return stack.peek();        
+        // The final result will be the only item left, sitting at index 0
+        return stack[0];
     }
 }
