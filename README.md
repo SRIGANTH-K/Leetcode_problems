@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
