@@ -22,8 +22,6 @@ class Solution {
             }
             st.add(nums[i]);
         }
-        //Collections.reverse(ar);
         return ar;
-        
     }
 }
