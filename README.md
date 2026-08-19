@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
