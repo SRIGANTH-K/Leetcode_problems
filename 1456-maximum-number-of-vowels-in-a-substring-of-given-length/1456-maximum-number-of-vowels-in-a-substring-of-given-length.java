@@ -1,45 +1,20 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        // Count vowels in the first window of size k
-        int initialCount = countVowels(s, 0, k);
-        // Find the maximum recursively for the rest of the windows
-        return helper(s, k, k, initialCount, initialCount);
+        return solve(s, k, 0, 0, 0);
     }
-    
-    // Helper function to count vowels in a specific range [start, end)
-    private int countVowels(String s, int start, int end) {
-        int count = 0;
-        for (int i = start; i < end; i++) {
-            if (isVowel(s.charAt(i))) {
-                count++;
-            }
-        }
-        return count;
-    }
-    
-    // Recursive sliding window function
-    private int helper(String s, int k, int index, int currentCount, int maxCount) {
-        // Base case: if the window has slid past the end of the string
-        if (index >= s.length()) {
-            return maxCount;
-        }
+
+    private int solve(String s, int k, int idx, int curr, int max) {
+        if (idx >= s.length()) return max;
+
+        // Add incoming character
+        if ("aeiou".indexOf(s.charAt(idx)) >= 0) curr++;
         
-        // Slide window: add incoming character, remove outgoing character
-        if (isVowel(s.charAt(index))) {
-            currentCount++;
-        }
-        if (isVowel(s.charAt(index - k))) {
-            currentCount--;
-        }
-        
-        // Update max count
-        maxCount = Math.max(maxCount, currentCount);
-        
-        // Recurse for the next index
-        return helper(s, k, index + 1, currentCount, maxCount);
-    }
-    
-    private boolean isVowel(char c) {
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
+        // Remove outgoing character (only after the first window of size k is formed)
+        if (idx >= k && "aeiou".indexOf(s.charAt(idx - k)) >= 0) curr--;
+
+        // Track max count once we have a valid window size
+        if (idx >= k - 1) max = Math.max(max, curr);
+
+        return solve(s, k, idx + 1, curr, max);
     }
 }
