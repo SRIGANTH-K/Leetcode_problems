@@ -4,7 +4,7 @@ class Solution {
         int right = nums.length - 1;
         
         while (left < right) {
-            int mid = left + (right - left) / 2;
+            int mid = (left + right) / 2;
             
             // If the middle element is greater than the next element,
             // a peak must exist on the left side (including mid).
