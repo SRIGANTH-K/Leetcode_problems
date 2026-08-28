@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Trie
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
