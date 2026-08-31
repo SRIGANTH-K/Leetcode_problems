@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0242-valid-anagram) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0344-reverse-string) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
