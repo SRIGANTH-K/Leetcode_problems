@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
