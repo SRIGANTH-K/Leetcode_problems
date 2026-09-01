@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0322-coin-change](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 ## Monotonic Stack
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -234,9 +237,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
