@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0518-coin-change-ii) |
 ## Monotonic Stack
 |  |
@@ -244,11 +246,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -263,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
