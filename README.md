@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0162-find-peak-element) |
@@ -256,5 +257,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
