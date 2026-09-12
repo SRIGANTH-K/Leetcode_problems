@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0322-coin-change) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SRIGANTH-K/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
